@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "username": "Arshmeet Singh",
+      "email": "arshmeetsinghvohra@gmail.com",
+      "password": "2206",
+      "id": "02"
+    },
+    {
+      "username": "Manseerat Kaur",
+      "email": "manseerat@gmail.com",
+      "password": "1234",
+      "id": "03"
+    },
+    {
+      "username": "Prabhkirat",
+      "email": "prabhi@gmail.com",
+      "password": "3333"
+    },
+    {
+      "username": "MKV",
+      "email": "manmeet@gmail.com",
+      "password": "6666"
+    },
+    {
+      "username": "Manav",
+      "email": "manav@gmail.com",
+      "password": "553"
+    },
+    {
+      "username": "Pranav",
+      "email": "pranav@gmail.com",
+      "password": "@12pranav"
+    },
+    {
+      "username": "Shiv",
+      "email": "shiv@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "manisha",
+      "email": "manisha@gmail.com",
+      "password": "123"
+    },
+    {
+      "username": "shiv mohan",
+      "email": "shivmohancb@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "Radhu",
+      "email": "radhikaggarwal133@gmail.com",
+      "password": "321"
+    },
+    {
+      "username": "papa",
+      "email": "allthebestpadhle@gmail.com",
+      "password": "1235"
+    },
+    {
+      "username": "princu",
+      "email": "princibansa603@gmail.com",
+      "password": "78945"
+    },
+    {
+      "username": "princu",
+      "email": "mishikabansal603@gmail.com",
+      "password": "1236"
+    },
+    {
+      "username": "Manmeet",
+      "email": "manmeetkaurmkv@gmail.com",
+      "password": "123456"
+    },
+    {
+      "username": "Manmeet Kaur",
+      "email": "manmeet554.be22@chitkara.edu.in",
+      "password": "2527"
+    }
+  ],
+  "bookings": [
+    {
+      "userId": "01",
+      "userEmail": "manmeet@gmail.com",
+      "fullName": "Manmeet Kaur",
+      "phone": "98989898",
+      "guestSize": "1",
+      "bookAt": "2024-09-24"
+    },
+    {
+      "userId": "01",
+      "userEmail": "manmeet@gmail.com",
+      "fullName": "Arshmeet Singh",
+      "phone": "882206",
+      "guestSize": "10",
+      "bookAt": "2024-09-21"
+    },
+    {
+      "fullName": "prabhi",
+      "phone": "333333",
+      "guestSize": "6",
+      "bookAt": "2024-09-12"
+    },
+    {
+      "fullName": "Manmeet Kaur",
+      "phone": "9466441891",
+      "guestSize": "3",
+      "bookAt": "2024-11-05"
+    },
+    {
+      "fullName": "Manmeet Kaur",
+      "phone": "9466441891",
+      "guestSize": "3",
+      "bookAt": "2024-11-27"
+    },
+    {
+      "fullName": "Manmeet Kaur",
+      "phone": "9466441891",
+      "guestSize": "3",
+      "bookAt": "2024-11-30"
+    },
+    {
+      "fullName": "princu",
+      "phone": "55555555",
+      "guestSize": "2",
+      "bookAt": "2024-12-09",
+      "email": "princibansa603@gmail.com",
+      "bookingId": ""
+    },
+    {
+      "fullName": "princu",
+      "phone": "55555555",
+      "guestSize": "2",
+      "bookAt": "2024-12-10",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733643920120"
+    },
+    {
+      "fullName": "princu",
+      "phone": "55555555",
+      "guestSize": "1",
+      "bookAt": "2024-12-17",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733644303573"
+    },
+    {
+      "fullName": "Mishika Bansal",
+      "phone": "123654987",
+      "guestSize": "1",
+      "bookAt": "2024-12-11",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733645375997"
+    },
+    {
+      "fullName": "Mishika Bansal",
+      "phone": "123654987",
+      "guestSize": "1",
+      "bookAt": "2024-12-11",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733646558521"
+    },
+    {
+      "fullName": "Radhika Bansal",
+      "phone": "123654987",
+      "guestSize": "1",
+      "bookAt": "2024-12-10",
+      "email": "radhikaggarwal133@gmail.com",
+      "bookingId": "1733647674693"
+    },
+    {
+      "fullName": "Radhika Bansal",
+      "phone": "55555555555",
+      "guestSize": "1",
+      "bookAt": "2024-12-11",
+      "email": "radhikaggarwal133@gmail.com",
+      "bookingId": "1733648288595"
+    },
+    {
+      "fullName": "Mishika Bansal",
+      "phone": "123654987",
+      "guestSize": "2",
+      "bookAt": "2024-12-10",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733648895228"
+    },
+    {
+      "fullName": "Mishika Bansal",
+      "phone": "8585858857",
+      "guestSize": "1",
+      "bookAt": "2024-12-12",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733649750835"
+    },
+    {
+      "fullName": "Mishika Bansal",
+      "phone": "8585858858",
+      "guestSize": "1",
+      "bookAt": "2024-12-12",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733650003533"
+    },
+    {
+      "fullName": "Mishika Bansal",
+      "phone": "8585858858",
+      "guestSize": "1",
+      "bookAt": "2024-12-12",
+      "email": "mishikabansal603@gmail.com",
+      "bookingId": "1733650724234"
+    },
+    {
+      "fullName": "",
+      "phone": "",
+      "guestSize": 1,
+      "bookAt": "",
+      "email": "",
+      "bookingId": "1733716527965"
+    }
+  ]
+}
