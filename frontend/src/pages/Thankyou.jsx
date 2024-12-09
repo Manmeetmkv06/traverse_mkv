@@ -9,7 +9,7 @@ const Thankyou = () => {
 
   const handleCancelBooking = async () => {
     try {
-      const response = await fetch(`http://localhost:5000/api/bookings/cancel`, {
+      const response = await fetch(`/api/bookings/cancel`, {
         method: "DELETE",
         headers: { "Content-Type": "application/json" },
         // No need to pass extra data as backend uses the fullname from the latest booking automatically

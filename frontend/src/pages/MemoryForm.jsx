@@ -19,7 +19,7 @@ const MemoryForm = () => {
     images.forEach((image) => data.append("images", image));
 
     try {
-      await axios.post("http://localhost:5000/api/memories", data, {
+      await axios.post("/api/memories", data, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       navigate("/memories"); // Redirect to memories page after submission

@@ -10,7 +10,7 @@ const CommunityPage = () => {
   useEffect(() => {
     const fetchMemories = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/api/memories");
+        const response = await axios.get("/api/memories");
         setMemories(response.data);
       } catch (error) {
         console.error("Error fetching memories:", error);

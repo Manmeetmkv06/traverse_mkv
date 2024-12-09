@@ -27,7 +27,7 @@ const Booking = ({ tour, avgRating }) => {
   const handleClick = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch('http://localhost:5000/api/bookings', {
+      const response = await fetch('/api/bookings', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(credentials),
@@ -49,7 +49,7 @@ const Booking = ({ tour, avgRating }) => {
     e.preventDefault();
 
     try {
-      const response = await fetch('http://localhost:5000/api/cancel', {
+      const response = await fetch('/api/cancel', {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
