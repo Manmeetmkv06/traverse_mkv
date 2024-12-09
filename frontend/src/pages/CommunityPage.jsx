@@ -34,7 +34,7 @@ const CommunityPage = () => {
             <p>By: {memory.user}</p>
             <div className="memory-images">
               {memory.images.map((image, index) => (
-                <img key={index} src={`http://localhost:5000/${image}`} alt="Memory" />
+                <img key={index} src={`/${image}`} alt="Memory" />
               ))}
             </div>
           </div>
