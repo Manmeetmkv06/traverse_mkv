@@ -33,19 +33,9 @@
       "password": "@12pranav"
     },
     {
-      "username": "Shiv",
-      "email": "shiv@gmail.com",
-      "password": "12345"
-    },
-    {
       "username": "manisha",
       "email": "manisha@gmail.com",
       "password": "123"
-    },
-    {
-      "username": "shiv mohan",
-      "email": "shivmohancb@gmail.com",
-      "password": "12345"
     },
     {
       "username": "Radhu",
@@ -75,7 +65,7 @@
     {
       "username": "Manmeet Kaur",
       "email": "manmeet554.be22@chitkara.edu.in",
-      "password": "2527"
+      "password": "1234"
     }
   ],
   "bookings": [
@@ -206,14 +196,6 @@
       "bookAt": "2024-12-12",
       "email": "mishikabansal603@gmail.com",
       "bookingId": "1733650724234"
-    },
-    {
-      "fullName": "",
-      "phone": "",
-      "guestSize": 1,
-      "bookAt": "",
-      "email": "",
-      "bookingId": "1733716527965"
     }
   ]
 }

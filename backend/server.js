@@ -17,14 +17,16 @@ const bookingRoutes = require('./routes/bookingRoutes');
 const memoryRoutes = require('./routes/memoryRoutes');
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 // MongoDB Connection
-const DB_URI = "mongodb://localhost:27017/traverse"; // Replace with your MongoDB URI
+// Replace with your MongoDB Atlas connection string
+const DB_URI = "mongodb+srv://MKV:MKV@cluster0.k05wi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+
 mongoose
   .connect(DB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(() => console.log("Connected to MongoDB"))
-  .catch((err) => console.error("Error connecting to MongoDB:", err));
+  .then(() => console.log("Connected to MongoDB Atlas"))
+  .catch((err) => console.error("Error connecting to MongoDB Atlas:", err));
 
 // Middleware
 app.use(cors());
