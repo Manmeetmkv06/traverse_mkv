@@ -53,11 +53,6 @@
       "password": "78945"
     },
     {
-      "username": "princu",
-      "email": "mishikabansal603@gmail.com",
-      "password": "1236"
-    },
-    {
       "username": "Manmeet",
       "email": "manmeetkaurmkv@gmail.com",
       "password": "123456"
@@ -68,9 +63,15 @@
       "password": "1234"
     },
     {
-      "username": "Manmeet Kaur",
-      "email": "manmeet554.be22@chitkara.edu.in",
+      "username": "Mishika",
+      "email": "mishikabansal603@gmail.com",
       "password": "1234"
+    },
+    
+    {
+      "username": "shiv mohan",
+      "email": "shivmohancb@gmail.com",
+      "password": "12345"
     }
   ],
   "bookings": [
